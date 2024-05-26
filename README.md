@@ -1,4 +1,4 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/be2aea46-625a-4955-9de4-cfa4df666b98/deploy-status)](https://app.netlify.com/sites/yurii-panasiuk-resume-goit/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/1e98f83e-dc9d-4257-aa51-d0d911bbedee/deploy-status)](https://app.netlify.com/sites/yurii-panasiuk/deploys)
 
 # Simple Web Server Setup
 
