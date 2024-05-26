@@ -46,5 +46,6 @@ Stop-Process -Name python
 ```
 Stop-Process -Id <ProcessId>
 ```
+### https://yurii-panasiuk.netlify.app/
 
 
